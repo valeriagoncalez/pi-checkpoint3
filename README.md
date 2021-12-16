@@ -1,6 +1,7 @@
-#Programação Imperativa - Checkpoint 3
-#Programação Imperativa
+Programação Imperativa - Checkpoint 3
+
 Avaliação Final - Parte 1
+
 Objetivos
 
 Vamos realizar uma série de exercícios conectados entre si. O objetivo é trabalhar um pouco com exercícios que dependem da etapa anterior para manter uma linha de trabalho.
